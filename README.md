@@ -15,7 +15,7 @@
 - 🔭 Currently working on **Azure-based data engineering pipelines** using PySpark and Databricks.
 - ✍️ I write clean, maintainable code and love automation using **Python**.
 - 💬 Ask me about anything related to **data engineering**, **cloud**, or **open source**.
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/your-profile/)** | **youremail@example.com**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/zafer-eqbal-5b906912b/)** | **najish.eqbal@gmail.com**
 
 ---
 
